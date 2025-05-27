@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Boaz Eddy Cadet Theodoris
+# 👋 Hi there, I'm Eddo4life
 
 I'm a passionate **Computer Scientist** who loves building tools and communities with code.  
 
