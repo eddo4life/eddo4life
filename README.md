@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Boaz Eddy Cadet Theodoris
 
 I'm a passionate **Computer Scientist** who loves building tools and communities with code.  
-Currently working on **Eddocommunity** — a hub for tools, educational content, and open-source projects like **Smart-L1**.
 
 ---
 
@@ -17,7 +16,7 @@ Currently working on **Eddocommunity** — a hub for tools, educational content,
 ## 🚀 Current Focus
 
 🛠 **Project:** [Eddocommunity](https://github.com/eddo4life)  
-📦 Building tools, websites, and educational products like **Smart-L1**  
+📦 Building tools, websites, and educational products 
 🌱 Learning more about system design, scalability, and open-source collaboration.
 
 ---
@@ -36,5 +35,3 @@ Currently working on **Eddocommunity** — a hub for tools, educational content,
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/eddo4life)
-- 🐙 [GitHub](https://github.com/eddo4life)
-
