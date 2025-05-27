@@ -15,7 +15,7 @@ I'm a passionate **Computer Scientist** who loves building tools and communities
 
 ## 🚀 Current Focus
 
-🛠 **Project:** [Eddocommunity](https://github.com/eddo4life)  
+🛠 **Project:** [Eddocommunity](https://github.com/eddo4life/eddocommunity-core)  
 📦 Building tools, websites, and educational products 
 🌱 Learning more about system design, scalability, and open-source collaboration.
 
