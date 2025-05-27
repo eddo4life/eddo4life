@@ -27,9 +27,6 @@ I'm a passionate **Computer Scientist** who loves building tools and communities
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=eddo4life&theme=radical)
 
-### Public repos
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddo4life&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Connect with Me
