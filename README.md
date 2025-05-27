@@ -23,8 +23,6 @@ I'm a passionate **Computer Scientist** who loves building tools and communities
 
 ## 📊 GitHub Stats
 
-![Eddo4life's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddo4life&show_icons=true&theme=radical)
-
 ![GitHub streak](https://streak-stats.demolab.com/?user=eddo4life&theme=radical)
 
 ---
