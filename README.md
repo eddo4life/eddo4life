@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Eddo4life
 
-I'm a passionate **Computer Scientist** who loves building tools and communities with code.  
+a passionate **Computer Scientist** who loves building tools and communities with code.  
 
 ---
 
