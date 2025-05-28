@@ -24,7 +24,7 @@ a passionate **Computer Scientist** who loves building tools and communities wit
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### 🧰 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -39,7 +39,7 @@ a passionate **Computer Scientist** who loves building tools and communities wit
 ## 🚀 Current Focus
 
 🛠 **Project:** [Eddocommunity](https://github.com/eddo4life/eddocommunity-core)  
-📦 Building tools, websites, and educational products 
+📦 Building tools, websites, and educational products    
 🌱 Learning more about system design, scalability, and open-source collaboration.
 
 ---
