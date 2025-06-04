@@ -56,7 +56,6 @@ A passionate **Computer Scientist** building impactful tools and fostering commu
 <summary>📈 More Stats (public repos)</summary>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eddo4life&layout=compact&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eddo4life&layout=compact&theme=radical&cache_seconds=60)
 
 
 </details>
