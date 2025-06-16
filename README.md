@@ -42,7 +42,7 @@ I love programming🥲🙏🏾
 - Open-source community building
 - Educational technology solutions
 
-**🌱 Learning:** Advanced distributed systems, cloud architecture, and DevOps practices
+**🌱 Learning:**  IoT
 
 ---
 
